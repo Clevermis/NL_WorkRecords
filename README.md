@@ -85,7 +85,7 @@ filetree
 
 ### 部署
 
-暂无
+1.C#部分使用Visual Studio 2022编写
 
 ### 使用到的框架
 
