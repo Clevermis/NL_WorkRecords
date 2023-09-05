@@ -62,7 +62,9 @@ git clone https://github.com/Clevermis/NL_WorkRecords.git
 
 ```
 filetree 
-├── 
+├── /Note               (笔记)   
+│  ├── /Csharp         （Csharp目录）
+│  │  ├── /images      （md中相关图片）
 ├── 
 ├── 
 ├── 
